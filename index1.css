@@ -1,0 +1,138 @@
+
+#form1{
+	margin-top:5%;
+	
+}
+body{
+	background-color:blue;
+}
+
+
+ input[type="text"], input[type="number"] 
+{
+	width:150px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    color: #673ab7;
+    font-size: 16px;
+}
+
+input[type="submit"]
+{ 
+	width: 150px;
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #2196f3;
+    color: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+
+}
+.imghead{
+	margin-left:10%;
+	margin-right:10%;
+	height:7%;
+	background-color:black;
+	color:white;
+	text-align:center;
+	margin-bottom:4%;
+}
+.imghead1{
+	margin-top:4%;
+	margin-left:10%;
+	margin-right:10%;
+	height:7%;
+	background-color:black;
+	color:white;
+	text-align:center;
+	margin-bottom:4%;
+}
+.card{
+	margin-left:20%;
+	margin-right:20%;
+	margin-bottom:10%;
+}
+.card1{
+	margin-left:25%;
+	margin-right:25%;
+	border:2px solid black;
+	background-color:black;
+}
+.card2{
+	border:2px solid black;
+	margin:0;
+	background-color:#07ede9;
+}
+.card3{
+	border-bottom:2px solid black;
+
+}
+
+#homeme{
+	text-align:center;
+
+	
+}
+#homeme .carddd{
+	background-color:purple;
+	margin-bottom:4%;
+}
+
+
+
+#card4{
+	margin-left:3%;
+
+	
+}
+#homeme p{
+	font-family:italic;
+	font-size:2em;
+}
+#homeme h2{
+	margin-left:5%;
+	margin-right:5%
+}
+
+input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: green;
+}
+body{
+	background-image: url("");
+	background-repeat:no-repeat;
+	background-size:1000%;
+}
+
+#h11{
+	font-weight:0.5em;
+	text-align:center;
+	color:white;
+}
+.div1{
+	text-align:center;
+	background-color:yellow;
+	border:3px solid black;
+}
+.card1{
+	text-align:center;
+	
+
+}
+.div2{
+	text-align:center;
+	background-color:red;
+	border:3px solid black;
+}
+#form1 p{
+color:black;
+	font-size:20px;
+}
+#form1 h1{
+	color:black;
+}
